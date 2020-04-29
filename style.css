@@ -1,0 +1,41 @@
+.calculator {
+    height: 295px;
+    width: 260px;
+    background-color: rgb(48, 44, 7);
+    margin: 0 auto;
+    padding: 10px;
+    border: 3px solid red;
+    }
+.main-bar{
+   width: 259px;
+   height: 80px;
+    margin-bottom: 20px;
+    text-align: right;
+    background-color:skyblue;
+}
+.btn{
+    font-size: 20px;
+    cursor: pointer;
+    width: 61px;
+    font-weight: bold;
+}
+.line{
+     margin-bottom: 10px;
+}
+.line-man .btn{
+    width: 126px;
+}
+.btn:hover{
+   background-color: rgb(176, 235, 14);
+}
+h1{
+    text-align: center;
+}
+.calculator #inp{
+    font-size: 25px;
+    font-weight:bold;
+    color: saddlebrown;
+}
+h5 b {
+    background-color: tomato;
+}
